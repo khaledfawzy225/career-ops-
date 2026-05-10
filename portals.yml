@@ -1,0 +1,73 @@
+---
+# Job portal and search query configuration.
+# Set enabled: false to pause a source without deleting it.
+
+portals:
+
+  - id: hn_hiring
+    name: "Hacker News – Who Is Hiring (May 2026)"
+    enabled: true
+    query: 'site:news.ycombinator.com "who is hiring" "May 2026"'
+
+  - id: weworkremotely_eng
+    name: "We Work Remotely – Engineering"
+    enabled: true
+    query: 'site:weworkremotely.com/remote-jobs/listings software engineer OR backend engineer OR machine learning engineer OR staff engineer 2026'
+
+  - id: remoteok_eng
+    name: "RemoteOK – Engineering"
+    enabled: true
+    query: 'site:remoteok.com senior engineer OR staff engineer OR backend engineer OR ML engineer 2026'
+
+  - id: greenhouse_remote
+    name: "Greenhouse – Remote Engineering"
+    enabled: true
+    query: 'site:boards.greenhouse.io "remote" "software engineer" OR "backend engineer" OR "machine learning engineer" 2026'
+
+  - id: lever_remote
+    name: "Lever – Remote Engineering"
+    enabled: true
+    query: 'site:jobs.lever.co "remote" "software engineer" OR "staff engineer" OR "ML engineer" OR "platform engineer" 2026'
+
+  - id: linkedin_remote_swe
+    name: "LinkedIn – Remote Software Engineer"
+    enabled: true
+    query: 'site:linkedin.com/jobs "remote" "software engineer" OR "senior software engineer" OR "staff engineer" 2026'
+
+  - id: builtin_remote
+    name: "Built In – Remote Engineering Jobs"
+    enabled: true
+    query: 'site:builtin.com/job "remote" "software engineer" OR "backend engineer" OR "platform engineer" 2026'
+
+# Company career pages to check directly (parsed for open engineering roles).
+company_pages:
+
+  - id: stripe
+    name: Stripe
+    enabled: true
+    url: https://stripe.com/jobs/search?teams[]=Engineering
+    location_hint: remote/SF/NYC
+
+  - id: anthropic
+    name: Anthropic
+    enabled: true
+    url: https://www.anthropic.com/careers
+    location_hint: remote/SF
+
+  - id: openai
+    name: OpenAI
+    enabled: true
+    url: https://openai.com/careers
+    location_hint: remote/SF
+
+  - id: vercel
+    name: Vercel
+    enabled: true
+    url: https://vercel.com/careers
+    location_hint: remote
+
+  - id: planetscale
+    name: PlanetScale
+    enabled: false
+    url: https://planetscale.com/careers
+    location_hint: remote
