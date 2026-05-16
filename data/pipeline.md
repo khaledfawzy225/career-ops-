@@ -49,3 +49,55 @@ Managed by `scan` mode. Do not edit rows manually — use `apply`/`track` modes 
 | 2026-05-10 | Software Engineer, Platform | Vercel | Remote | https://vercel.com/careers/software-engineer-platform-us-5421563004 | vercel | — |
 | 2026-05-10 | Senior / Staff Software Engineer, ML Datasets & Data Pipelines | Waabi | Remote | https://jobs.lever.co/waabi/81ed817e-cb56-45f8-aac6-e645610798da | lever_remote | Autonomous driving |
 | 2026-05-10 | Software Engineer – Backend | Workera AI | Remote (LATAM) | https://boards.greenhouse.io/workera/jobs/4084733005 | greenhouse_remote | — |
+| 2026-05-16 | Staff Software Engineer, Architecture | Ad Hoc LLC | Remote (US) | https://www.linkedin.com/jobs/view/staff-software-engineer-architecture-remote-at-ad-hoc-llc-2922771205 | linkedin_remote_swe | Govt tech |
+| 2026-05-16 | Senior Software Engineer, Data Platform | Amplify Renewables | Remote (US) | https://news.ycombinator.com/item?id=47975571#amplify-renewables | hn_hiring | $150k–$250k; clean energy |
+| 2026-05-16 | Analytics Data Engineer | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Agent Prompts & Evals | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5159608008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Cloud Inference AWS | Anthropic | SF / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5141377008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, GPU (ML Accelerator) | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4741104008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Inference | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4741102008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Inference Routing and Performance | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5155391008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Marketplace | Anthropic | SF / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5210631008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Passport | Anthropic | SF / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5210629008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Product Monetization (Billing Platform) | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5146363008 | anthropic | — |
+| 2026-05-16 | Engineering Manager, Vertical AI Products | Anthropic | NYC / SF | https://job-boards.greenhouse.io/anthropic/jobs/5140492008 | anthropic | — |
+| 2026-05-16 | Full-Stack Software Engineer, Reinforcement Learning | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5186067008 | anthropic | — |
+| 2026-05-16 | Infrastructure Engineer, Sandboxing | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5030680008 | anthropic | — |
+| 2026-05-16 | Machine Learning Systems Engineer, Research Tools | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4952079008 | anthropic | — |
+| 2026-05-16 | Machine Learning Systems Engineer, RL Engineering | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4952051008 | anthropic | — |
+| 2026-05-16 | Software Engineer, Compute Efficiency | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5108982008 | anthropic | — |
+| 2026-05-16 | Software Engineer, Cybersecurity Products | Anthropic | SF / NYC / Seattle / DC | https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | anthropic | — |
+| 2026-05-16 | Software Engineer, Desktop | Anthropic | SF / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4980420008 | anthropic | — |
+| 2026-05-16 | Software Engineer, Sandboxing (Systems) | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5025591008 | anthropic | — |
+| 2026-05-16 | Software Engineer, UI Platform | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4673416008 | anthropic | — |
+| 2026-05-16 | Staff / Senior Software Engineer, Compute Capacity | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5126702008 | anthropic | — |
+| 2026-05-16 | Staff Software Engineer, Android | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4899511008 | anthropic | mobile |
+| 2026-05-16 | Staff Software Engineer, iOS | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4572744008 | anthropic | mobile |
+| 2026-05-16 | Senior Software Engineer | Coder | Remote | https://news.ycombinator.com/item?id=47975571#coder | hn_hiring | dev tools |
+| 2026-05-16 | Backend Software Engineer | Enveritas | Remote (Global) | https://news.ycombinator.com/item?id=47975571#enveritas | hn_hiring | $135k–$155k; conservation NGO |
+| 2026-05-16 | Backend Software Engineer, AI & Machine Learning | Grafana Labs | Remote (EMEA) | https://boards.greenhouse.io/grafanalabs/jobs/4738058004 | greenhouse_remote | $116k–$146k; EMEA |
+| 2026-05-16 | Senior Backend Engineer | Gradient.io | Remote | https://boards.greenhouse.io/gradientio/jobs/4233553002 | greenhouse_remote | — |
+| 2026-05-16 | Backend Engineer / Full Stack Engineer | Hammock | New York, NY | https://news.ycombinator.com/item?id=47975571#hammock | hn_hiring | $150k–$225k; 4-day onsite |
+| 2026-05-16 | Senior Software Engineer, Backend | Human Interest | Remote (US) | https://boards.greenhouse.io/humaninterest/jobs/5383185 | greenhouse_remote | — |
+| 2026-05-16 | Backend Engineer / Software Engineer III | Optimize Health | Remote | https://builtin.com/job/backend-engineer-software-engineer-iii/2109301 | builtin_remote | — |
+| 2026-05-16 | Senior Software / AI Engineer | Pathos AI | New York, NY | https://news.ycombinator.com/item?id=47975571#pathos | hn_hiring | $180k–$200k; 3-4 days onsite; oncology AI |
+| 2026-05-16 | Backend Engineer | PostHog | Remote (Global) | https://news.ycombinator.com/item?id=47975571#posthog | hn_hiring | open-source analytics |
+| 2026-05-16 | Senior Staff Software Engineer, HRIS | Rippling | Remote (US) | https://www.linkedin.com/jobs/view/senior-staff-software-engineer-hris-at-rippling-4370510662 | linkedin_remote_swe | HR/payroll platform |
+| 2026-05-16 | Senior Backend Software Engineer | Self Financial | Austin, TX (Remote) | https://builtin.com/job/senior-backend-software-engineer/2934990 | builtin_remote | $140k–$160k; credit building |
+| 2026-05-16 | Backend Engineer, AI Security | Stripe | Remote (US) / NYC / SF | https://stripe.com/jobs/listing/backend-engineer-ai-security/7826765 | stripe | — |
+| 2026-05-16 | Backend Engineer, Privy | Stripe | New York, NY | https://stripe.com/jobs/listing/backend-engineer-privy/7235875 | stripe | — |
+| 2026-05-16 | Backend/API Engineer, Money as a Service | Stripe | Remote (US) / NYC / SF | https://stripe.com/jobs/listing/backend-api-engineer-money-as-a-service/6176758 | stripe | — |
+| 2026-05-16 | Engineering Manager, CDN | Vercel | San Francisco, CA | https://vercel.com/careers/engineering-manager-cdn-5701765004 | vercel | — |
+| 2026-05-16 | Senior Software Engineer, Trust & Safety | Vercel | Remote (US) | https://vercel.com/careers/senior-software-engineer-trust-and-safety-us-5788954004 | vercel | — |
+| 2026-05-16 | Software Engineer, Agent | Vercel | San Francisco, CA | https://vercel.com/careers/software-engineer-agent-5704320004 | vercel | — |
+| 2026-05-16 | Software Engineer, AI Gateway | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-ai-gateway-5798406004 | vercel | — |
+| 2026-05-16 | Software Engineer, AI SDK | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-ai-sdk-5474915004 | vercel | — |
+| 2026-05-16 | Software Engineer, Backend | Vercel | Remote (US) | https://vercel.com/careers/software-engineer-backend-us-5430088004 | vercel | — |
+| 2026-05-16 | Software Engineer, CDN Security | Vercel | Remote (US) | https://vercel.com/careers/software-engineer-cdn-security-us-5473266004 | vercel | — |
+| 2026-05-16 | Software Engineer, Compute | Vercel | Remote (US) | https://vercel.com/careers/software-engineer-compute-us-5551619004 | vercel | — |
+| 2026-05-16 | Software Engineer, Dashboard | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-dashboard-5808568004 | vercel | — |
+| 2026-05-16 | Software Engineer, Deployment Infrastructure | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-deployment-infrastructure-5633880004 | vercel | — |
+| 2026-05-16 | Software Engineer, Growth | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-growth-5613601004 | vercel | — |
+| 2026-05-16 | Software Engineer, Next.js | Vercel | San Francisco, CA | https://vercel.com/careers/software-engineer-next-js-5993753004 | vercel | — |
+| 2026-05-16 | Software Engineer, Workflows | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-workflows-5798416004 | vercel | — |
+| 2026-05-16 | Sr. Engineering Manager, Platform | Vercel | NYC / SF | https://vercel.com/careers/sr-engineering-manager-platform-5461002004 | vercel | — |
