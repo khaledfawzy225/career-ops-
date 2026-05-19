@@ -101,3 +101,42 @@ Managed by `scan` mode. Do not edit rows manually — use `apply`/`track` modes 
 | 2026-05-16 | Software Engineer, Next.js | Vercel | San Francisco, CA | https://vercel.com/careers/software-engineer-next-js-5993753004 | vercel | — |
 | 2026-05-16 | Software Engineer, Workflows | Vercel | NYC / SF | https://vercel.com/careers/software-engineer-workflows-5798416004 | vercel | — |
 | 2026-05-16 | Sr. Engineering Manager, Platform | Vercel | NYC / SF | https://vercel.com/careers/sr-engineering-manager-platform-5461002004 | vercel | — |
+| 2026-05-19 | Engineering Manager, Detection and Response | Anthropic | Zürich, CH | https://job-boards.greenhouse.io/anthropic/jobs/5068296008 | anthropic | security/detection EM |
+| 2026-05-19 | Engineering Manager, GRC | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4980335008 | anthropic | governance, risk & compliance |
+| 2026-05-19 | ML Infrastructure Engineer, Safeguards | Anthropic | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/4778843008 | anthropic | — |
+| 2026-05-19 | Model Quality Software Engineer, Claude Code | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | anthropic | — |
+| 2026-05-19 | Software Engineer, Systems - Claude Code | Anthropic | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5218395008 | anthropic | — |
+| 2026-05-19 | Staff Software Engineer, Billing Platform | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5146298008 | anthropic | — |
+| 2026-05-19 | Staff Software Engineer, Continuous Integration | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5073998008 | anthropic | — |
+| 2026-05-19 | Staff Software Engineer (Python) | Augmedix | Remote | https://jobs.lever.co/augmedix/4ebe3c2b-b376-4378-b55f-6f496341b187 | lever_remote | healthcare AI; data pipelines |
+| 2026-05-19 | New Grad Software Engineer, Backend 2026 | Circle | Remote | https://builtin.com/job/new-grad-software-engineer-backend-2026/7720484 | builtin_remote | new grad; $100–140k; below comp floor |
+| 2026-05-19 | Full-Stack AI Engineer (Contract) | Form AI | Remote (US) / Austin | https://news.ycombinator.com/item?id=47975571#form-ai | hn_hiring | contract; $75–150/hr |
+| 2026-05-19 | Full Stack Software Engineer | Fortech Engineering | Remote (Canada) | https://news.ycombinator.com/item?id=47975571#fortech-engineering | hn_hiring | $140–170k CAD; below USD floor |
+| 2026-05-19 | Founding Software Engineer (Backend, Remote) | Glass Health | Remote | https://builtin.com/job/founding-software-engineer-backend-remote/3564668 | builtin_remote | re-post; prior ID 3564568 |
+| 2026-05-19 | Backend Engineer, Grafana Backend Platform | Grafana Labs | Remote (EMEA) | https://builtin.com/job/engineer/backend-engineer-grafana-backend-platform-remote-emea/1669414 | builtin_remote | EMEA only; GoLang |
+| 2026-05-19 | Staff Engineer - Platform Engineering | HighLevel | Remote | https://jobs.lever.co/gohighlevel/af42dc00-d62d-40cb-8c4b-4a595a32dd2c | lever_remote | 9+ yrs req; distributed systems |
+| 2026-05-19 | AI Engineer | Hyperspell | San Francisco, CA | https://news.ycombinator.com/item?id=47975571#hyperspell-ai | hn_hiring | $150k–$220k + equity; onsite SF |
+| 2026-05-19 | Platform Engineer | Hyperspell | San Francisco, CA | https://news.ycombinator.com/item?id=47975571#hyperspell-platform | hn_hiring | $150k–$220k + equity; onsite SF |
+| 2026-05-19 | Infrastructure Engineer | IPinfo.io | Remote (Global) | https://news.ycombinator.com/item?id=47975571#ipinfo | hn_hiring | — |
+| 2026-05-19 | Staff / Senior Software Engineer, Back-end | Iterative | Remote | https://jobs.lever.co/iterative/4d684b23-f924-41f5-a727-b79cac48a1e3 | lever_remote | open-source ML tools (DVC); Python |
+| 2026-05-19 | Senior Backend Engineer | NetBird | Berlin / Remote | https://news.ycombinator.com/item?id=47975571#netbird-senior-backend | hn_hiring | open-source networking |
+| 2026-05-19 | Staff Software Engineer | NetBird | Berlin / Remote | https://news.ycombinator.com/item?id=47975571#netbird-staff-swe | hn_hiring | open-source networking |
+| 2026-05-19 | AI Platform Engineer | OpenVPN Inc. | Remote (US) | https://news.ycombinator.com/item?id=47975571#openvpn | hn_hiring | $140k–$150k; at comp floor |
+| 2026-05-19 | Senior Software Engineer - DevOps | Opentrons Labworks | Remote (US) | https://www.linkedin.com/jobs/view/senior-software-engineer-devops-remote-at-opentrons-labworks-inc-3010046360 | linkedin_remote_swe | lab automation; verify listing active |
+| 2026-05-19 | Backend Engineer | Remote.com | Remote (Global) | https://boards.greenhouse.io/remotecom/jobs/5473393003 | greenhouse_remote | HR/payroll platform |
+| 2026-05-19 | Senior Software Engineer (React, Full-stack) | River | SF / NYC / Remote | https://news.ycombinator.com/item?id=47975571#river-senior-swe | hn_hiring | $150k–$250k + equity |
+| 2026-05-19 | Senior/Staff ML Engineer | River | SF / NYC / Remote | https://news.ycombinator.com/item?id=47975571#river-ml | hn_hiring | $150k–$250k + equity |
+| 2026-05-19 | Staff Software Engineer (Elixir) | River | SF / NYC / Remote | https://news.ycombinator.com/item?id=47975571#river-staff-swe | hn_hiring | $150k–$250k + equity |
+| 2026-05-19 | Senior Software Engineer | Spacelift | Remote (Europe) | https://news.ycombinator.com/item?id=47975571#spacelift | hn_hiring | $80k–$110k; below comp floor |
+| 2026-05-19 | Backend / API Engineer, Payouts | Stripe | London | https://stripe.com/jobs/listing/backend-api-engineer-payouts/7369543 | stripe | London only |
+| 2026-05-19 | Backend Engineer, Core Tech, Canada | Stripe | Toronto | https://stripe.com/jobs/listing/backend-engineer-core-tech-canada/6567253 | stripe | Toronto |
+| 2026-05-19 | Backend Engineer, Data | Stripe | Remote (Canada) | https://stripe.com/jobs/listing/backend-engineer-data/7913700 | stripe | CA listing; prior US ID 6865161 |
+| 2026-05-19 | Backend Engineer, Developer Experience & Product Platform | Stripe | Toronto | https://stripe.com/jobs/listing/backend-engineer-developer-experience-product-platform/7292520 | stripe | Toronto |
+| 2026-05-19 | Backend Engineer, Expansion | Stripe | Toronto | https://stripe.com/jobs/listing/backend-engineer-expansion/7775622 | stripe | Toronto |
+| 2026-05-19 | Full-Stack Engineer | Uncountable | NY / SF / London / Munich (Onsite) | https://news.ycombinator.com/item?id=47975571#uncountable | hn_hiring | $130k–$220k + equity; onsite |
+| 2026-05-19 | Senior Software Engineer, Backend (Graph) | Veza Technologies | Remote | https://builtin.com/job/senior-software-engineer/2881721 | builtin_remote | — |
+| 2026-05-19 | Staff Engineer - Recommendations | VRChat | Remote | https://jobs.lever.co/vrchat/93875494-9d42-446d-a069-9c14296e46ed | lever_remote | — |
+| 2026-05-19 | Staff Software Engineer, Metrics | Weights & Biases | Remote (US) | https://jobs.lever.co/wandb/aef9ba38-f779-4c53-afc8-6fa2d10c6f59 | lever_remote | $210k–$290k; MLOps |
+| 2026-05-19 | Senior Backend Engineer | Woosmap | Hybrid / Remote (Europe) | https://news.ycombinator.com/item?id=47975571#woosmap | hn_hiring | EU TZ; geolocation SaaS |
+| 2026-05-19 | Staff Engineer, Data Platform | Yuno | Remote (Europe) | https://jobs.lever.co/yuno/0a1e498f-b0af-4955-bf94-e23b48faec00 | lever_remote | 8+ yrs req; EU only |
+| 2026-05-19 | Staff Software Engineer, ML Performance Optimization | Zoox | Remote | https://jobs.lever.co/zoox/2ed8a665-cee8-4d70-bcb1-e96b6214b371 | lever_remote | autonomous vehicles |
