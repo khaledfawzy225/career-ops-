@@ -140,3 +140,55 @@ Managed by `scan` mode. Do not edit rows manually — use `apply`/`track` modes 
 | 2026-05-19 | Senior Backend Engineer | Woosmap | Hybrid / Remote (Europe) | https://news.ycombinator.com/item?id=47975571#woosmap | hn_hiring | EU TZ; geolocation SaaS |
 | 2026-05-19 | Staff Engineer, Data Platform | Yuno | Remote (Europe) | https://jobs.lever.co/yuno/0a1e498f-b0af-4955-bf94-e23b48faec00 | lever_remote | 8+ yrs req; EU only |
 | 2026-05-19 | Staff Software Engineer, ML Performance Optimization | Zoox | Remote | https://jobs.lever.co/zoox/2ed8a665-cee8-4d70-bcb1-e96b6214b371 | lever_remote | autonomous vehicles |
+| 2026-05-25 | Analytics Data Engineering Manager, Product | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | anthropic | — |
+| 2026-05-25 | Engineering Manager, API Core Capabilities | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5081338008 | anthropic | — |
+| 2026-05-25 | Engineering Manager, Research Tools | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5223093008 | anthropic | — |
+| 2026-05-25 | Engineering Manager, UI Platform | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5117296008 | anthropic | — |
+| 2026-05-25 | Senior Full Stack Engineer, Education | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5098565008 | anthropic | — |
+| 2026-05-25 | Senior Software Engineer, Full-stack | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | anthropic | — |
+| 2026-05-25 | Senior Software Engineer, Inference | Anthropic | Dublin, IE | https://job-boards.greenhouse.io/anthropic/jobs/4641822008 | anthropic | — |
+| 2026-05-25 | Senior Staff Software Engineer | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5204401008 | anthropic | — |
+| 2026-05-25 | Senior Staff Software Engineer, API | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5134895008 | anthropic | — |
+| 2026-05-25 | Senior+ Software Engineer, Research Tools | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | anthropic | — |
+| 2026-05-25 | Software Engineer, Human Data Interface | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | anthropic | — |
+| 2026-05-25 | Software Engineer, Research Data Platform | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | anthropic | — |
+| 2026-05-25 | Software Engineer, Safeguards | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | anthropic | — |
+| 2026-05-25 | Sr. Software Engineer, Inference | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5152348008 | anthropic | — |
+| 2026-05-25 | Staff + Sr. Software Engineer, AI Reliability | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5113224008 | anthropic | — |
+| 2026-05-25 | Staff + Sr. Software Engineer, Cloud Inference | Anthropic | SF / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5107466008 | anthropic | — |
+| 2026-05-25 | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | Anthropic | SF / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5215028008 | anthropic | — |
+| 2026-05-25 | Staff + Sr. Software Engineer, Inference | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/4951696008 | anthropic | — |
+| 2026-05-25 | Staff + Sr. Software Engineer, Inference Deployment | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5111745008 | anthropic | — |
+| 2026-05-25 | Staff Engineer, Datacenter Server Lifecycle | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5131038008 | anthropic | — |
+| 2026-05-25 | Staff Engineer, Datacenter Server Lifecycle | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5139038008 | anthropic | — |
+| 2026-05-25 | Staff Infrastructure Engineer, Cluster Infrastructure | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5211297008 | anthropic | — |
+| 2026-05-25 | Staff Infrastructure Engineer, Cluster Infrastructure | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5206978008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, AI Reliability Engineering | Anthropic | Dublin, IE | https://job-boards.greenhouse.io/anthropic/jobs/5101169008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, AI Reliability Engineering | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5101173008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, Inference | Anthropic | Dublin, IE | https://job-boards.greenhouse.io/anthropic/jobs/5150472008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, Inference | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5097742008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, Kubernetes Platform | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5211241008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, Node Infra | Anthropic | London, UK | https://job-boards.greenhouse.io/anthropic/jobs/5211498008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer, Node Infra | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5203868008 | anthropic | — |
+| 2026-05-25 | Staff UI Software Engineer, Claude.ai Consumer Product | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Backend | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5174755008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Databases | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5151069008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Developer Productivity | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5110511008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Full-stack | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5174747008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Platform | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5157847008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Privacy | Anthropic | SF / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5159146008 | anthropic | — |
+| 2026-05-25 | Staff+ Software Engineer, Public Sector | Anthropic | SF / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5205704008 | anthropic | — |
+| 2026-05-25 | Staff Software Engineer (Magic Containers) | bunny.net | Remote | https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers | weworkremotely_eng | CDN/edge infra |
+| 2026-05-25 | Senior Software Engineer – Backend/Python | Close | Remote (US) | https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1 | weworkremotely_eng | CRM SaaS; USA only |
+| 2026-05-25 | Backend Engineer | comparis.ch | Remote (CH) | https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x | weworkremotely_eng | 80–100%; Swiss comparison platform |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (Bulgaria) | https://jobs.lever.co/jobgether/8d95d04e-7964-41cc-8528-f73704cb5045 | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (Germany) | https://jobs.lever.co/jobgether/a04f4e6b-37ed-45e7-8e03-b7eb25ad20af | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (India) | https://jobs.lever.co/jobgether/4c0f245f-48bc-4ff3-8de1-aa32d1d35633 | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (Italy) | https://jobs.lever.co/jobgether/1b2ca3e6-59fd-408a-ba36-8755adb740e0 | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (Luxembourg) | https://jobs.lever.co/jobgether/f4856e1f-0bf6-4dad-89b3-8f13cc13df52 | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (Netherlands) | https://jobs.lever.co/jobgether/89b6fa03-6e5a-40f6-a79a-66aba00e83ed | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer | Jobgether | Remote (Slovenia) | https://jobs.lever.co/jobgether/d73580da-d004-4651-ad13-b7743bf37568 | lever_remote | aggregator |
+| 2026-05-25 | Staff Software Engineer – Data Infrastructure | Praia Health Inc. | Remote | https://weworkremotely.com/remote-jobs/praia-health-inc-staff-software-engineer-data-infrastructure | weworkremotely_eng | health tech |
+| 2026-05-25 | Full Stack AI Engineer | Reveleer | Remote | https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | weworkremotely_eng | healthcare AI |
+| 2026-05-25 | Senior Engineers (Kotlin/Java/React/TypeScript) | Starbridge | NYC / Remote | https://news.ycombinator.com/item?id=47975571#47977858 | hn_hiring | fintech |
+| 2026-05-25 | Founding AI Engineer | Tiger Tracks | Remote (US/EU) | https://news.ycombinator.com/item?id=47975571#48070967 | hn_hiring | contract-to-hire |
