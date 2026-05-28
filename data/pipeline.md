@@ -192,3 +192,31 @@ Managed by `scan` mode. Do not edit rows manually — use `apply`/`track` modes 
 | 2026-05-25 | Full Stack AI Engineer | Reveleer | Remote | https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer | weworkremotely_eng | healthcare AI |
 | 2026-05-25 | Senior Engineers (Kotlin/Java/React/TypeScript) | Starbridge | NYC / Remote | https://news.ycombinator.com/item?id=47975571#47977858 | hn_hiring | fintech |
 | 2026-05-25 | Founding AI Engineer | Tiger Tracks | Remote (US/EU) | https://news.ycombinator.com/item?id=47975571#48070967 | hn_hiring | contract-to-hire |
+| 2026-05-28 | Software Engineer, Backend (ML Infrastructure) | Affirm | Remote | https://boards.greenhouse.io/affirm/jobs/5301678003 | greenhouse_remote | — |
+| 2026-05-28 | Backend / Infrastructure Engineer | Air Space Intelligence | Remote | https://news.ycombinator.com/item?id=47975571#47978920 | hn_hiring | — |
+| 2026-05-28 | Senior Software Engineer | Amgen | Remote (US/CA) | https://www.linkedin.com/jobs/view/senior-software-engineer-remote-us-or-canada-at-amgen-3804329205 | linkedin_remote_swe | biotech |
+| 2026-05-28 | Security Software Engineer, Detection & Response Platform | Anthropic | SF/NYC/Seattle/DC | https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | anthropic | — |
+| 2026-05-28 | Senior Security Software Engineer, Linux Kernel Security | Anthropic | Zürich | https://job-boards.greenhouse.io/anthropic/jobs/5197714008 | anthropic | — |
+| 2026-05-28 | Staff Security Software Engineer, Platform Integration | Anthropic | SF/NYC/Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5209776008 | anthropic | — |
+| 2026-05-28 | Senior Backend Engineer | Arize AI | Remote | https://boards.greenhouse.io/arizeai/jobs/4125696004 | greenhouse_remote | AI observability |
+| 2026-05-28 | Software Engineer, Video Management | Axis Communications | Linköping, Sweden | https://news.ycombinator.com/item?id=47975571#47985407 | hn_hiring | onsite |
+| 2026-05-28 | Senior/Staff/Principal Engineer | Fastly | Remote (US/UK/EU) | https://news.ycombinator.com/item?id=47975571#47975839 | hn_hiring | CDN/edge; multiple roles |
+| 2026-05-28 | Senior Software Engineer, Backend | Freenome | Remote (US) | https://boards.greenhouse.io/freenome/jobs/4214499002 | greenhouse_remote | distinct listing from prior Freenome entry |
+| 2026-05-28 | Senior Full Stack Software Engineer | Jobs.ai | Remote | https://ca.linkedin.com/jobs/view/senior-full-stack-software-engineer-remote-at-jobs-ai-4409849449 | linkedin_remote_swe | — |
+| 2026-05-28 | Backend Engineer | Monzo | London, UK | https://boards.greenhouse.io/monzo/jobs/2428516 | greenhouse_remote | UK neobank |
+| 2026-05-28 | Senior Software Engineer | MONUMENTAL | Amsterdam, Netherlands | https://news.ycombinator.com/item?id=47975571#47977422 | hn_hiring | robotics; onsite |
+| 2026-05-28 | Senior Software Engineer II | Nomad | Remote (Worldwide) | https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii | weworkremotely_eng | — |
+| 2026-05-28 | Senior Full-Stack Engineer | OpenRent | London, UK | https://news.ycombinator.com/item?id=47975571#47979298 | hn_hiring | £110k+; UK rental platform |
+| 2026-05-28 | Staff Platform Engineer, AI Infrastructure | Paytm | Remote | https://jobs.lever.co/paytm/2b1e9430-2357-45f7-9a70-a163f3e4f6f8 | lever_remote | 8+ yrs; fintech |
+| 2026-05-28 | Senior Machine Learning Engineer, Monetization | Quora | Remote | https://boards.greenhouse.io/quora/jobs/6292286002 | greenhouse_remote | — |
+| 2026-05-28 | Infrastructure Engineer | Railway | Remote (Worldwide) | https://news.ycombinator.com/item?id=47975571#47978937 | hn_hiring | cloud PaaS |
+| 2026-05-28 | Senior Software Engineer | Scholarly | Seattle, WA | https://news.ycombinator.com/item?id=47975571#47976607 | hn_hiring | $160k–$200k; onsite Seattle |
+| 2026-05-28 | Staff Backend Engineer | Socure | Remote (US) | https://boards.greenhouse.io/socure/jobs/4922146003 | greenhouse_remote | identity verification |
+| 2026-05-28 | Senior / Staff Engineer (TypeScript) | Solace Health | Remote (US) | https://news.ycombinator.com/item?id=47975571#47975870 | hn_hiring | $150k–$230k |
+| 2026-05-28 | Software Engineer | Sticker Mule | Remote (Worldwide) | https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3 | weworkremotely_eng | — |
+| 2026-05-28 | Backend Engineer, Payments Experiences | Stripe | São Paulo | https://stripe.com/jobs/listing/backend-engineer-payments-experiences/7895287 | stripe | — |
+| 2026-05-28 | Staff / Lead Engineer | Triumph Financial | Remote (US) | https://news.ycombinator.com/item?id=47975571#47978231 | hn_hiring | $150k–$300k; fintech |
+| 2026-05-28 | Full-Stack Engineering Lead | WALTER | Remote | https://weworkremotely.com/remote-jobs/walter-full-stack-engineering-lead | weworkremotely_eng | — |
+| 2026-05-28 | Senior Fullstack Engineer (Ruby+React) | WALTER | Remote | https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react | weworkremotely_eng | — |
+| 2026-05-28 | Senior Software Engineer, Workspaces | Weights & Biases | Remote (US) | https://jobs.lever.co/wandb/edc72af7-6058-456c-9cac-b3367b87440a | lever_remote | MLOps |
+| 2026-05-28 | Software Engineer | Youth Inc | Boston, MA | https://news.ycombinator.com/item?id=47975571#47977953 | hn_hiring | non-profit; Boston onsite |
